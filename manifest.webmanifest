@@ -1,0 +1,8 @@
+{
+  "name": "何卓键作品集",
+  "short_name": "作品集",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0d0c0a",
+  "theme_color": "#0d0c0a"
+}

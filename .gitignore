@@ -1,0 +1,18 @@
+# ---- 系统 / 编辑器 ----
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+.idea/
+.vscode/
+
+# ---- 本地预览与 QA 临时文件 ----
+_qa_*
+qa_*
+*.log
+
+# ---- 备份与历史版本（仅本地保留，不进仓库）----
+*_backup/
+*备份*/
+*.bak
+index-*.html
